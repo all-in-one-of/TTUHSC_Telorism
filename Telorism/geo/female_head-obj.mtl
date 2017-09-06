@@ -1,0 +1,56 @@
+#
+# Wavefront material file: c:\documents and settings\admir\my documents\female_head_newest\female_head-obj.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 04/03/2007 18:42:36
+#
+# Bounding box of geometry = (-157.324,-111.618,8.55556) to (178.698,276.575,284.147).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl cornea
+	Ns 3
+	d 0.38
+	illum 2
+	Kd 0.756863 0.756863 0.756863
+	Ks 0 0 0
+	Ka 0.756863 0.756863 0.756863
+
+newmtl eyeleashes
+	Ns 5
+	d 1
+	illum 2
+	Kd 0.184314 0.12549 0.12549
+	Ks 0.072 0.072 0.072
+	Ka 0.184314 0.12549 0.12549
+
+newmtl gums
+	Ns 5
+	d 1
+	illum 2
+	Kd 0.615686 0.615686 0.615686
+	Ks 0.306 0.306 0.306
+	Ka 0.615686 0.615686 0.615686
+
+newmtl head
+	Ns 4
+	d 1
+	illum 2
+	Kd 0.603922 0.603922 0.603922
+	Ks 0.063 0.063 0.063
+	Ka 0.603922 0.603922 0.603922
+
+newmtl teeth
+	Ns 11
+	d 1
+	illum 2
+	Kd 0.933333 0.933333 0.933333
+	Ks 0.423 0.423 0.423
+	Ka 0.933333 0.933333 0.933333
+
